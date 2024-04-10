@@ -6,4 +6,4 @@ https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5ca
 This is the preview I made:
 ![](FinishedPreview.png)
 
-Live: https://zer0fr0st93.github.io/Ping-Coming-Soon/
+Live: https://billgeorgop93.github.io/Ping-Coming-Soon/
